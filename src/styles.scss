@@ -1,4 +1,2 @@
 /* You can add global styles to this file, and also import other style files */
-body{
-    background-color: darken($color: #383737, $amount: 0);
-}
+@import "../public/assets/css/material-dashboard.css"
